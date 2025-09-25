@@ -1,4 +1,5 @@
 print a
 print b
+print c 
 
-a+b
+a+b+c
